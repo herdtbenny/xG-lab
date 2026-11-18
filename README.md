@@ -2,7 +2,7 @@
 
 Interaktives Expected-Goals-Modell: Schüsse aufs Feld setzen, Torwahrscheinlichkeit live berechnen, verdientes Ergebnis ableiten.
 
-Teil meines Portfolios: [portfolio.websbybenny.de](https://portfolio.websbybenny.de/#projects)
+**Live:** [xg-lab.websbybenny.de](https://xg-lab.websbybenny.de) · Teil meines Portfolios: [portfolio.websbybenny.de](https://portfolio.websbybenny.de/#projects)
 
 ## Funktionen
 
