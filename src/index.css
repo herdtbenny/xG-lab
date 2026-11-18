@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Colors are RGB triplets so Tailwind's opacity modifiers work (bg-p-fg/10 etc.). */
+/* xG Lab: TV match-analysis look, pitch green and amber, condensed sports type, sharp corners */
+.theme-xg {
+  --p-bg: 7 16 11;
+  --p-panel: 12 26 18;
+  --p-fg: 236 244 238;
+  --p-muted: 148 170 156;
+  --p-subtle: 92 116 101;
+  --p-accent: 245 165 36;
+  --p-ink: 7 16 11;
+  --p-font-display: 'Barlow Condensed', sans-serif;
+  --p-font-body: 'Barlow', sans-serif;
+  --p-font-mono: 'JetBrains Mono', monospace;
+  --p-radius: 4px;
+  --p-radius-sm: 2px;
+  --p-shadow: none;
+}
+
+body {
+  margin: 0;
+  background-color: #07100b;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
